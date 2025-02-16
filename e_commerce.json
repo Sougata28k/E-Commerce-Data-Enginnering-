@@ -1,0 +1,27 @@
+[
+    {
+        "e_commerce_rel_url": "Sougata28k/E-Commerce-Data-Enginnering-/refs/heads/main/CustomersData.csv",
+        "e_commerce_folder": "CustomersData",
+        "e_commerce_file": "CustomersData.csv"
+    },
+    {
+        "e_commerce_rel_url": "Sougata28k/E-Commerce-Data-Enginnering-/refs/heads/main/Discount_Coupon.csv",
+        "e_commerce_folder": "Discount_Coupon",
+        "e_commerce_file": "Discount_Coupon.csv"
+    },
+    {
+        "e_commerce_rel_url": "Sougata28k/E-Commerce-Data-Enginnering-/refs/heads/main/Marketing_Spend.csv",
+        "e_commerce_folder": "Marketing_Spend",
+        "e_commerce_file": "Marketing_Spend.csv"
+    },
+    {
+        "e_commerce_rel_url": "Sougata28k/E-Commerce-Data-Enginnering-/refs/heads/main/Online_Sales.csv",
+        "e_commerce_folder": "Online_Sales",
+        "e_commerce_file": "Online_Sales.csv"
+    }, {
+        "e_commerce_rel_url": "Sougata28k/E-Commerce-Data-Enginnering-/refs/heads/main/Tax_amount.csv",
+        "e_commerce_folder": "Tax_amount",
+        "e_commerce_file": "Tax_amount.csv"
+    }
+    
+]
